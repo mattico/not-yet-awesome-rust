@@ -18,3 +18,6 @@ See the [contributing guide](CONTRIBUTING.md) for information on what you can do
 
 ### Data forensics
 * Ability to parse `Registry.pol` files from Windows machines
+
+### Networking
+* A library for cross-platform proxy configuration
